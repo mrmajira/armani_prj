@@ -1,0 +1,13 @@
+notes
+venv_armani
+__pycache__
+.env
+
+Sample_Data.xlsx
+*.xlsx
+*.csv
+*.docx
+*.pdf
+*.tmp
+*.pyc 
+*.pbix
